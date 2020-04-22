@@ -1,3 +1,3 @@
 # CurrenciesApp
 
-*It is simple application
+* It is simple application
