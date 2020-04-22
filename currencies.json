@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 38,
+      "symbol": "CAD",
+      "name": "Canadian dollar"
+    },
+    {
+      "id": 8,
+      "symbol": "CZK",
+      "name": "Czech koruna"
+    },
+    {
+      "id": 37,
+      "symbol": "DKK",
+      "name": "Danish crone"
+    },
+    {
+      "id": 27,
+      "symbol": "EUR",
+      "name": "European euro"
+    },
+    {
+      "id": 15,
+      "symbol": "NZD",
+      "name": "New Zealand dollar"
+    },
+    {
+      "id": 30,
+      "symbol": "GBP",
+      "name": "Pound sterling"
+    },
+    {
+      "id": 35,
+      "symbol": "RUB",
+      "name": "Russian ruble"
+    },
+    {
+      "id": 1,
+      "symbol": "RSD",
+      "name": "Serbian dinar"
+    },
+    {
+      "id": 39,
+      "symbol": "CHF",
+      "name": "Swiss franc"
+    },
+    {
+      "id": 2,
+      "symbol": "USD",
+      "name": "US Dollar"
+    },
+    {
+      "id": "eb12c2c9-a70a-409a-a7c1-1b3e78b6ca69",
+      "symbol": "KM",
+      "name": "Bosnian mark"
+    },
+    {
+      "id": "c3099700-792c-4219-821f-0464c4f1eb22",
+      "symbol": "BSD",
+      "name": "Bahamian dollar"
+    },
+    {
+      "id": "6e851a03-95ed-4003-bbd0-70b53a57fb29",
+      "symbol": "COP",
+      "name": "Colombian peso"
+    },
+    {
+      "id": "65e80790-a58a-4e21-b65b-0f158d59d503",
+      "symbol": "YEN",
+      "name": "Chinese yen"
+    }
+  ]
+}
